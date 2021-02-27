@@ -1,7 +1,7 @@
-<?php $company = "LONE CACTUS LANDSCAPING, INC.";
-$phone = "(480) 471-3108";
-	$address1 = "23233 N PIMA RD STE 113";
-	$address2 = "SCOTTSDALE, AZ 85255";
+<?php $company = "ABSOLUTE LANDSCAPES , LLC";
+$phone = "(435) 817-3637";
+	$address1 = "784 S RIVER ROAD";
+	$address2 = "ST GEORGE, UT 84790";
 ?>
 <!DOCTYPE html>
 <html style="font-size: 16px;">
